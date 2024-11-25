@@ -7,6 +7,7 @@ Suppose that you are working as a data analyst at Airbnb. For the past few month
 To prepare for the next best steps that Airbnb needs to take as a business, you have been asked to analyze a dataset consisting of various Airbnb listings in New York.
 
 ❖	Introduction to Airbnb_Dataset:
+
 Columns Description:
 ![image](https://github.com/user-attachments/assets/06b33eb0-4bab-49df-bea2-16e3de7bc4c7)
 
