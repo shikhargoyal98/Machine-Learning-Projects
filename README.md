@@ -5,6 +5,8 @@ Suppose that you are working as a data analyst at Airbnb. For the past few month
 ❖	Objective:
 
 To prepare for the next best steps that Airbnb needs to take as a business, you have been asked to analyze a dataset consisting of various Airbnb listings in New York.
+
+❖	Data Dictionary:
 <img width="307" alt="image" src="https://github.com/user-attachments/assets/97fc5aa2-e3d7-4d98-985c-3900dfd453fe">
 
 
